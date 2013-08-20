@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/fractals">
+        <file alias="koh">images/koh.jpg</file>
+        <file alias="serp">images/serp.png</file>
+        <file alias="cube">images/cube.png</file>
+        <file alias="line">images/line.png</file>
+    </qresource>
+</RCC>
